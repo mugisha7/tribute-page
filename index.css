@@ -1,0 +1,82 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.page{
+    height: 100%;
+    width: 100%;
+    display: block;
+    background-color: #EEEEEE;
+}
+.nav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+.image-container{
+    background-color: white;
+    padding: 10px;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-bottom: 35px;
+}
+.blog{
+    display: flex;
+    width: 80%;
+    align-items: center;
+}
+h4{
+    font-size: 20px;
+    margin-right: 10px;
+}
+a{
+    color: #477ca7;
+}
+.h1{
+    text-align: center;
+    margin: 25px;
+    font-style: initial;
+}
+ul{
+    width: 60%;
+    margin: auto;
+    line-height: 2;
+    margin-bottom: 30px;
+}
+ul>li{
+    margin: 20px;
+}
+span{
+    font-weight: bold;
+}
+.navtitle{
+    font-size: 40px;
+}
+i{
+    line-height: 2;
+
+}
